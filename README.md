@@ -1,4 +1,5 @@
-# random-science
+# Random science
+Simulations every physicist does.
 
 [Ising-Model](https://github.com/ajrazander/random-science/blob/master/2DIsingV2.ipynb)
 
