@@ -5,6 +5,6 @@ Simulations every physicist should do.
 
 Classical Ising model simulation using a Metropolis-based Monte Carlo method.
 
-[Pi](https://github.com/ajrazander/random-science/blob/master/Pi.ipynb)
+[Pi Estimation](https://github.com/ajrazander/random-science/blob/master/Pi.ipynb)
 
-Estimation of Pi using random sampling.
+Estimation of pi using random sampling. Imagine a cirlce enscribed in a square. As we randomly sample points in the square, the number of points in the circle divided by the total number of point will be proportional to pi and thus estimate pi.
