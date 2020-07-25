@@ -105,9 +105,9 @@ def harvest(beginDate,endDate):
     return df
 
 
-startDate = '2018-01-01'
+startDate = '2020-01-01'
 endDate = datetime.datetime.now().strftime("%Y-%m-%d")
-endDate = '2018-06-01'
+endDate = '2020-06-01'
 df = harvest(startDate,endDate)
 
 
