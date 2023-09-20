@@ -3,7 +3,7 @@ Simulations every physicist should do. As well as some fun calculations related 
 
 Geometric frustration is a topic close to my PhD research, so I've included some simple calculations for a [square lattice](https://github.com/ajrazander/random-science/tree/master/Frustrated%20Ising%20Spins).
 
-In my graduate level quantum computing course, my final project was a white paper on [randomized benchmarking](https://github.com/ajrazander/random-science/tree/master/Stabilizer%20Code%20IBM) and showing improvement when using a fault tolerant encoding. The project was based on a paper (see folder) with great instructions and details. Randomized benchmarking was just coming on the quantum scene when I did this making it a fun and timely project.
+In my graduate level quantum computing course, my final project was a white paper on [randomized benchmarking](https://github.com/ajrazander/random-science/tree/master/Stabilizer%20Code%20IBM) and showing improvement when using a fault tolerant encoding. The project was based on a paper (see folder) with great instructions and details. Randomized benchmarking was just coming on the quantum scene making it a fun and timely project.
 
 Classical [Ising model](https://github.com/ajrazander/random-science/blob/master/2DIsingV2.ipynb) simulation using a Metropolis-based Monte Carlo method. Did this for an undergraduate thermodynamics project. Besides the interesting physics going on, optimizing execution for faster computation speed (to get sharper phase transitions) was enjoyable.
 
