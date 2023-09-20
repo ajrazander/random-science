@@ -7,7 +7,7 @@ In my graduate level quantum computing course, my final project was a white pape
 
 Classical [Ising model](https://github.com/ajrazander/random-science/blob/master/2DIsingV2.ipynb) simulation using a Metropolis-based Monte Carlo method. Did this for an undergraduate thermodynamics project. Besides the interesting physics going on, optimizing execution for faster computation speed (to get sharper phase transitions) was enjoyable.
 
-Estimation of pi using random sampling. Imagine a cirlce enscribed in a square. As we randomly sample points in the square, the number of points in the circle divided by the total number of point will be proportional to pi and thus estimate pi. What made this project so enjoyable was how simple the setup is, yet it can determine pi to a surprising precision.
+Estimation of pi using random sampling. Imagine a cirlce enscribed in a square. As we randomly sample points in the square, the number of points in the circle divided by the total number of point will be proportional to pi and thus estimate pi. What made this project so enjoyable was how simple the setup is, yet it can determine pi to a surprising precision. It was also fun to explore ways to dramatically speed up the calculation.
 [Pi Estimation](https://github.com/ajrazander/random-science/blob/master/Pi.ipynb)
 
 
